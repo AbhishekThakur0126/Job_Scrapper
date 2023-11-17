@@ -1,1 +1,2 @@
 # Job_Scrapper
+This web scraping project offers a useful illustration of how to use Python to gather job-related data from the TimesJobs website. It shows how to automate the data extraction process using well-known libraries like pandas, BeautifulSoup, and requests. The script is an adaptable tool for obtaining information from internet job portals since it can be changed to scrape job listings for various positions, areas, or further information. Because the retrieved data is structured, it may be easily analyzed or consulted for future research.
